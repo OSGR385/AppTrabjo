@@ -8,7 +8,7 @@ from google.genai import types
 # CONFIGURACIÓN GENERAL
 # ==============================================================================
 # ⚠️ Verifica en la documentación de Gemini que este nombre de modelo exista.
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.8-flash"
 TOTAL_PREGUNTAS = 3
 
 ROLES = {
